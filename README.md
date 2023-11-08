@@ -22,12 +22,4 @@
 
 </div>
 
-##
-<div>
-Loanding   
-</div>
-<div>
-  <picture align="center"> 
-    <img src="https://github.com/Guilherme-G/Guilherme-G/blob/main/snake-svg.svg">
-  </picture>
-</div>
+![snake gif](https://github.com/Guilherme-G/Guilherme-G/blob/output/github-contribution-grid-snake.svg)
