@@ -28,6 +28,6 @@ Loanding
 </div>
 <div>
   <picture align="center"> 
-    <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
+    <img src="https://github.com/Guilherme-G/Guilherme-G/blob/main/snake-svg.svg">
   </picture>
 </div>
